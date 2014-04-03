@@ -1,7 +1,8 @@
 var http  = require('http');
 var fs    = require('fs');
 
-console.log('Starting server');
+console.log('Starting server for Eunice');
+
 
 /**
  * This function takes a url and returns the file path that
